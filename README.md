@@ -1,1 +1,1 @@
-# My project OF Rock Paper Scissor
+# My project Of Rock Paper Scissor
